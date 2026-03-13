@@ -1,0 +1,39 @@
+# Competitor Monitoring Agent (Power Automate)
+
+This project demonstrates an automated competitor monitoring workflow built using Microsoft Power Automate.
+
+The agent automatically collects updates from RSS feeds and sends summarized updates through email.
+
+## Workflow Overview
+
+1. Recurrence trigger runs the automation on a schedule.
+2. The flow reads configuration data from an Excel table.
+3. RSS feeds are collected for monitoring.
+4. Each RSS item is evaluated using conditions.
+5. Relevant updates are stored in a variable.
+6. A summarized report is sent via email.
+
+## Key Components
+
+Recurrence  
+Initialize Variable  
+Excel Table Data Retrieval  
+RSS Feed Monitoring  
+Conditional Filtering  
+Email Notification
+
+## Use Case
+
+Businesses often monitor competitors manually.  
+This automation reduces manual effort by automatically collecting and delivering relevant competitor updates.
+
+## Tools Used
+
+Microsoft Power Automate  
+RSS Feeds  
+Excel  
+Email Automation
+
+## Output
+
+Automated email containing filtered competitor updates.
