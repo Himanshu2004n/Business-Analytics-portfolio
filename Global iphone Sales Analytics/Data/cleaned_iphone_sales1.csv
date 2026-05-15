@@ -1,0 +1,101 @@
+Order_ID,Customer_Name,Country,iPhone_Model,Storage,Color,Quantity,Price,Sale_Date,Payment_Method,Revenue,Month,Year
+1001,Customer_1,USA,iPhone 13,256GB,Purple,5,1817,2025-05-01,Debit Card,9085,May,2025
+1002,Customer_2,Canada,iPhone 12,256GB,Blue,1,998,2025-03-05,PayPal,998,March,2025
+1003,Customer_3,Canada,iPhone 15 Pro Max,512GB,Black,5,876,2025-01-25,Credit Card,4380,January,2025
+1004,Customer_4,USA,iPhone 15 Pro Max,512GB,Black,2,1290,2025-03-24,Debit Card,2580,March,2025
+1005,Customer_5,USA,iPhone 15,128GB,Blue,3,1092,2025-02-01,Debit Card,3276,February,2025
+1006,Customer_6,UAE,iPhone 14 Pro,256GB,Red,5,1939,2025-02-15,Debit Card,9695,February,2025
+1007,Customer_7,Germany,iPhone 14 Pro,512GB,Blue,1,1798,2025-02-13,Debit Card,1798,February,2025
+1008,Customer_8,UK,iPhone 15 Pro Max,128GB,Purple,3,1808,2025-03-30,Debit Card,5424,March,2025
+1009,Customer_9,UAE,iPhone 12,512GB,Purple,2,1381,2025-03-06,Debit Card,2762,March,2025
+1010,Customer_10,Pakistan,iPhone 14 Pro,128GB,Red,5,1670,2025-02-25,Debit Card,8350,February,2025
+1011,Customer_11,UK,iPhone 15 Pro Max,256GB,White,5,1857,2025-01-28,PayPal,9285,January,2025
+1012,Customer_12,USA,iPhone 14,128GB,Black,3,1572,2025-03-25,Cash,4716,March,2025
+1013,Customer_13,Germany,iPhone 12,512GB,Blue,3,1868,2025-02-18,PayPal,5604,February,2025
+1014,Customer_14,USA,iPhone 12,512GB,Black,3,1743,2025-01-17,Credit Card,5229,January,2025
+1015,Customer_15,UAE,iPhone 14 Pro,256GB,Blue,1,1544,2025-01-27,Credit Card,1544,January,2025
+1016,Customer_16,UAE,iPhone 12,128GB,Blue,4,1819,2025-04-04,Debit Card,7276,April,2025
+1017,Customer_17,Germany,iPhone 13,512GB,Red,5,1992,2025-04-28,PayPal,9960,April,2025
+1018,Customer_18,Canada,iPhone 14 Pro,256GB,Red,2,1003,2025-04-04,PayPal,2006,April,2025
+1019,Customer_19,UAE,iPhone 13,128GB,Purple,1,1010,2025-03-15,Debit Card,1010,March,2025
+1020,Customer_20,UAE,iPhone 15,256GB,Purple,3,1588,2025-03-27,Debit Card,4764,March,2025
+1021,Customer_21,Pakistan,iPhone 15,256GB,Red,3,742,2025-03-12,Cash,2226,March,2025
+1022,Customer_22,Pakistan,iPhone 15,128GB,Black,4,1627,2025-03-22,PayPal,6508,March,2025
+1023,Customer_23,USA,iPhone 15,128GB,Red,5,1964,2025-04-19,Cash,9820,April,2025
+1024,Customer_24,UK,iPhone 15,256GB,White,4,817,2025-01-01,Cash,3268,January,2025
+1025,Customer_25,UK,iPhone 15 Pro Max,128GB,Purple,5,1571,2025-01-23,Debit Card,7855,January,2025
+1026,Customer_26,UAE,iPhone 14,128GB,Red,3,1302,2025-03-27,Debit Card,3906,March,2025
+1027,Customer_27,USA,iPhone 13,256GB,White,5,1060,2025-01-19,Cash,5300,January,2025
+1028,Customer_28,UK,iPhone 13,128GB,Blue,4,1879,2025-01-30,Credit Card,7516,January,2025
+1029,Customer_29,Canada,iPhone 14 Pro,256GB,Red,3,1963,2025-03-30,Debit Card,5889,March,2025
+1030,Customer_30,Canada,iPhone 14,512GB,Blue,5,1673,2025-01-19,Debit Card,8365,January,2025
+1031,Customer_31,UAE,iPhone 13,256GB,Purple,5,1135,2025-03-26,Debit Card,5675,March,2025
+1032,Customer_32,USA,iPhone 15 Pro Max,128GB,Blue,5,1550,2025-03-09,PayPal,7750,March,2025
+1033,Customer_33,Canada,iPhone 14,128GB,Blue,5,1646,2025-02-05,PayPal,8230,February,2025
+1034,Customer_34,USA,iPhone 14 Pro,128GB,Red,4,1559,2025-03-17,Debit Card,6236,March,2025
+1035,Customer_35,Canada,iPhone 14 Pro,128GB,White,5,1793,2025-01-02,Cash,8965,January,2025
+1036,Customer_36,USA,iPhone 12,512GB,Blue,5,1030,2025-04-02,Credit Card,5150,April,2025
+1037,Customer_37,Canada,iPhone 14 Pro,128GB,Red,2,1921,2025-04-09,Credit Card,3842,April,2025
+1038,Customer_38,UAE,iPhone 14 Pro,128GB,Purple,1,1674,2025-04-17,Credit Card,1674,April,2025
+1039,Customer_39,Canada,iPhone 15 Pro Max,256GB,Red,1,1218,2025-01-25,Credit Card,1218,January,2025
+1040,Customer_40,UAE,iPhone 15 Pro Max,256GB,Purple,4,1034,2025-05-01,Credit Card,4136,May,2025
+1041,Customer_41,UK,iPhone 15,128GB,Black,3,1633,2025-03-27,Credit Card,4899,March,2025
+1042,Customer_42,UK,iPhone 15,256GB,Black,4,720,2025-01-20,Debit Card,2880,January,2025
+1043,Customer_43,UAE,iPhone 15,128GB,Red,2,1238,2025-03-22,Credit Card,2476,March,2025
+1044,Customer_44,USA,iPhone 13,256GB,White,4,1779,2025-01-12,Debit Card,7116,January,2025
+1045,Customer_45,UK,iPhone 13,256GB,Purple,5,1667,2025-04-18,Debit Card,8335,April,2025
+1046,Customer_46,Germany,iPhone 15 Pro Max,512GB,Blue,1,1094,2025-01-12,PayPal,1094,January,2025
+1047,Customer_47,USA,iPhone 12,256GB,White,5,1120,2025-01-11,PayPal,5600,January,2025
+1048,Customer_48,USA,iPhone 14,256GB,Black,5,1786,2025-03-28,Cash,8930,March,2025
+1049,Customer_49,Canada,iPhone 14,128GB,Black,1,1199,2025-03-27,Debit Card,1199,March,2025
+1050,Customer_50,Canada,iPhone 14 Pro,128GB,Blue,1,733,2025-01-12,Cash,733,January,2025
+1051,Customer_51,UK,iPhone 15 Pro Max,256GB,Blue,5,1113,2025-01-22,Credit Card,5565,January,2025
+1052,Customer_52,Pakistan,iPhone 14,512GB,Blue,5,764,2025-03-12,Debit Card,3820,March,2025
+1053,Customer_53,USA,iPhone 14 Pro,128GB,Black,1,1959,2025-02-27,PayPal,1959,February,2025
+1054,Customer_54,UK,iPhone 14,256GB,White,1,1829,2025-04-24,Credit Card,1829,April,2025
+1055,Customer_55,Pakistan,iPhone 14 Pro,128GB,Blue,2,899,2025-04-10,PayPal,1798,April,2025
+1056,Customer_56,USA,iPhone 15,512GB,Black,5,1250,2025-01-02,Debit Card,6250,January,2025
+1057,Customer_57,Pakistan,iPhone 14 Pro,256GB,Blue,1,945,2025-05-01,Debit Card,945,May,2025
+1058,Customer_58,UK,iPhone 15 Pro Max,256GB,Purple,5,1752,2025-04-11,Debit Card,8760,April,2025
+1059,Customer_59,Pakistan,iPhone 14 Pro,512GB,Red,4,1909,2025-04-13,Debit Card,7636,April,2025
+1060,Customer_60,Germany,iPhone 14 Pro,512GB,Blue,5,1714,2025-01-12,Credit Card,8570,January,2025
+1061,Customer_61,UAE,iPhone 15,512GB,Black,5,1519,2025-02-21,Debit Card,7595,February,2025
+1062,Customer_62,Canada,iPhone 13,512GB,Purple,4,1769,2025-04-05,PayPal,7076,April,2025
+1063,Customer_63,Canada,iPhone 15 Pro Max,128GB,White,5,1644,2025-02-21,Credit Card,8220,February,2025
+1064,Customer_64,UK,iPhone 15 Pro Max,512GB,Red,2,1991,2025-01-28,Cash,3982,January,2025
+1065,Customer_65,Canada,iPhone 14,256GB,White,3,1706,2025-01-04,Debit Card,5118,January,2025
+1066,Customer_66,USA,iPhone 14,256GB,White,1,1884,2025-03-28,Debit Card,1884,March,2025
+1067,Customer_67,Canada,iPhone 14 Pro,128GB,Blue,3,1027,2025-04-22,Debit Card,3081,April,2025
+1068,Customer_68,Pakistan,iPhone 15 Pro Max,128GB,Black,2,788,2025-04-05,Credit Card,1576,April,2025
+1069,Customer_69,Germany,iPhone 14 Pro,128GB,White,3,796,2025-01-25,PayPal,2388,January,2025
+1070,Customer_70,Canada,iPhone 14 Pro,512GB,Blue,4,1829,2025-01-13,Credit Card,7316,January,2025
+1071,Customer_71,UK,iPhone 12,512GB,Purple,2,1977,2025-01-10,Cash,3954,January,2025
+1072,Customer_72,UAE,iPhone 12,128GB,Red,5,1964,2025-02-06,Debit Card,9820,February,2025
+1073,Customer_73,USA,iPhone 14 Pro,128GB,Red,2,1629,2025-01-28,Cash,3258,January,2025
+1074,Customer_74,Germany,iPhone 15 Pro Max,256GB,White,1,1987,2025-04-25,PayPal,1987,April,2025
+1075,Customer_75,Germany,iPhone 14,512GB,Blue,4,1547,2025-01-10,Cash,6188,January,2025
+1076,Customer_76,UK,iPhone 14 Pro,256GB,Red,5,1923,2025-04-12,Cash,9615,April,2025
+1077,Customer_77,UAE,iPhone 14 Pro,512GB,Blue,2,1477,2025-02-27,PayPal,2954,February,2025
+1078,Customer_78,Pakistan,iPhone 13,128GB,Purple,4,1464,2025-01-15,Cash,5856,January,2025
+1079,Customer_79,USA,iPhone 15,128GB,Purple,3,1790,2025-02-12,Credit Card,5370,February,2025
+1080,Customer_80,USA,iPhone 15,512GB,Purple,4,1819,2025-02-24,Debit Card,7276,February,2025
+1081,Customer_81,Pakistan,iPhone 13,256GB,Purple,5,1579,2025-03-05,Credit Card,7895,March,2025
+1082,Customer_82,UK,iPhone 15 Pro Max,256GB,Blue,1,756,2025-03-28,Debit Card,756,March,2025
+1083,Customer_83,UK,iPhone 14 Pro,128GB,White,3,1165,2025-03-08,Cash,3495,March,2025
+1084,Customer_84,Germany,iPhone 13,256GB,Red,5,1229,2025-03-22,Cash,6145,March,2025
+1085,Customer_85,UK,iPhone 12,256GB,White,4,1656,2025-04-12,Cash,6624,April,2025
+1086,Customer_86,Germany,iPhone 12,256GB,Black,2,950,2025-04-08,Cash,1900,April,2025
+1087,Customer_87,Canada,iPhone 15,128GB,White,1,1903,2025-01-02,PayPal,1903,January,2025
+1088,Customer_88,UK,iPhone 15 Pro Max,512GB,Purple,5,718,2025-02-04,Cash,3590,February,2025
+1089,Customer_89,USA,iPhone 13,256GB,White,3,1249,2025-01-12,Debit Card,3747,January,2025
+1090,Customer_90,USA,iPhone 12,256GB,White,3,887,2025-02-17,Debit Card,2661,February,2025
+1091,Customer_91,UAE,iPhone 15,256GB,Red,5,1357,2025-03-22,PayPal,6785,March,2025
+1092,Customer_92,UAE,iPhone 15 Pro Max,256GB,White,3,1361,2025-02-10,Credit Card,4083,February,2025
+1093,Customer_93,UK,iPhone 12,256GB,Black,3,1971,2025-01-20,Credit Card,5913,January,2025
+1094,Customer_94,USA,iPhone 15 Pro Max,512GB,White,1,1622,2025-03-22,Credit Card,1622,March,2025
+1095,Customer_95,Canada,iPhone 13,128GB,White,4,1388,2025-01-06,Credit Card,5552,January,2025
+1096,Customer_96,UAE,iPhone 14 Pro,256GB,Blue,1,1743,2025-03-09,Credit Card,1743,March,2025
+1097,Customer_97,UK,iPhone 15 Pro Max,512GB,White,3,1671,2025-02-08,Credit Card,5013,February,2025
+1098,Customer_98,UK,iPhone 15 Pro Max,512GB,White,4,1125,2025-01-08,Debit Card,4500,January,2025
+1099,Customer_99,Germany,iPhone 15 Pro Max,512GB,Purple,5,1540,2025-02-04,Debit Card,7700,February,2025
+1100,Customer_100,UK,iPhone 15,512GB,Blue,3,1549,2025-03-28,Debit Card,4647,March,2025
